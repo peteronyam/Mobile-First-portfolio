@@ -11,11 +11,11 @@ html {
 }
 
     .header {
+
       width: 375px;
       height: 92px;
       display: flex;
       align-items: center;
-      /* justify-content: space-between; */
       background-color: #3c3a39;
     }
     .logo {
@@ -27,7 +27,6 @@ html {
       line-height: 24px;
       font-style: Bold;
       align-items: center;
-      /* vertical-align: center; */
       color: #ffffff;
     }
     .navbar {
@@ -115,15 +114,15 @@ html {
     #linkedin {
       width: 12.71px;
       height: 16.97px;
-      margin-left:10px;
+      margin-left: 10px;
       top: 3.03px;
       left: 7.29px;
       color: #dbd8d7;
     }
     #github {
-      width:17.99px;
+      width: 17.99px;
       height: 20px;
-      left:0.01px;
+      left: 0.01px;
       margin-left: 20px;
       color: #dbd8d7;
     }
