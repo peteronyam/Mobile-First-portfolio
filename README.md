@@ -3,7 +3,7 @@
 <div align="center">
   
 
-  <h3><b>Hello Microverse README</b></h3>
+  <h3><b>Mobile setup portfolio README</b></h3>
 
 </div>
 
@@ -103,7 +103,7 @@ Git (optional)**
 
 Clone this repository to your desired folder:
 
-  **git clone https://github.com/peteronyam/Hello-Microverse-Project.git**
+  **git clone https://github.com/peteronyam/Mobile-first-portfolio.git**
 
 
 ### Install
@@ -170,7 +170,7 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse fir this privilege 
+I would like to thank Microverse for this privilege 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
