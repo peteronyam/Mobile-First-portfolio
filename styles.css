@@ -12,7 +12,6 @@ html {
 }
 
 .header {
-
   width: 375px;
   height: 92px;
   display: flex;
@@ -27,7 +26,7 @@ html {
   font-weight: 700;
   font-size: 18px;
   line-height: 24px;
-  font-style: Bold;
+  font-style: bold;
   align-items: center;
   color: #ffffff;
 }
@@ -42,14 +41,11 @@ html {
   width: 375px;
   height: 600px;
   display: flex;
-  /* justify-content: center; */
   align-items: center;
   background-image: url(./images/bgimage.png);
   background-repeat: no-repeat;
   background-position: 100%;
   background-position-x: bottom-right;
-
-
 }
 
 section {
@@ -88,7 +84,7 @@ h3 {
 }
 
 .title-paragraph {
-  color: #ffffff;
+  color: #fff;
   width: 327px;
   height: 123px;
   top: 400px;
@@ -99,7 +95,6 @@ h3 {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-
 }
 
 .social {
@@ -107,7 +102,6 @@ h3 {
   display: flex;
   margin-top: 21px;
   width: auto;
-  display: flex;
   margin-left: 24px;
 }
 
