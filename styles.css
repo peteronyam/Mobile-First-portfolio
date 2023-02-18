@@ -798,15 +798,15 @@ button:hover {
   background-color: #fff5e1;
   border: 1px solid #f55800;
   color: #ff6b00;
-
 }
-button:disabled{
+
+button:disabled {
   background-color: #f4f1f0;
   color: #5b5957;
   border: o;
 }
 
-button:active{
+button:active {
   background-color: #e05304;
   color: #f4f1f0;
 }
