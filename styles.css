@@ -319,34 +319,21 @@ h3 {
   margin-top: 8px;
 }
 
-.See-project {
-  width: 128px;
-  height: 29px;
-  top: 259px;
-  padding: 12px;
-  gap: 10px;
-  border: 0;
-  margin-top: 12px;
-  background-color: #ff6b00;
-  display: flex;
-  flex-direction: column;
-  margin-left: 24px;
-}
-
-#See-project {
-  width: 136px;
-  height: 22px;
-  top: 12px;
-  left: 12px;
-  border: 0;
+.See-project-btn {
+  width: 124px;
+  height: 48px;
+  margin-top: 18px;
   background-color: #ff6b00;
   color: #fff;
   font-family: 'Inter', sans-serif;
   font-weight: 700;
-  font-size: 17px;
-  line-height: 24px;
-  letter-spacing: 3px;
   text-align: center;
+  padding: 0 1px;
+  margin-left: 24px;
+  font-size: 17px;
+  line-height: 3px;
+  outline: none;
+  border: none;
 }
 
 .printing {
@@ -807,8 +794,34 @@ ul {
   color: #fff;
 }
 
-button:active {
-  background-color: #3a3b3a;
-  box-shadow: 0 5px #666;
-  transform: translateY(4px);
+button:hover {
+  background-color: #fff5e1;
+  border: 1px solid #f55800;
+  color: #ff6b00;
+
+}
+button:disabled{
+  background-color: #f4f1f0;
+  color: #5b5957;
+  border: o;
+}
+
+button:active{
+  background-color: #e05304;
+  color: #f4f1f0;
+}
+
+.timely {
+  width: 327px;
+  height: 48px;
+  margin-top: 18px;
+  background-color: #ff6b00;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 24px;
+  outline: none;
+  border: none;
 }
