@@ -397,7 +397,7 @@ ul {
   margin-left: 8px;
   list-style-type: none;
   text-decoration: none;
-  display: flex;
+  float: left;
   flex-wrap: wrap;
   margin-top: 8px;
   padding: 10px, 12px, 10px, 12px;
@@ -408,7 +408,7 @@ ul {
   width: 61px;
   height: 30px;
   left: 175px;
-  display: flex;
+ float: left;
   margin-left: 8px;
   list-style-type: none;
   text-decoration: none;
@@ -429,10 +429,8 @@ ul {
   font-weight: 500;
   font-size: 15px;
   line-height: 20px;
-  display: flex;
+  float: left;
   justify-content: center;
-  flex-wrap: wrap;
-  flex-direction: row;
   padding-top: 5px;
 }
 
@@ -443,15 +441,13 @@ ul {
   height: 20px;
   top: 20px;
   margin-left: 10px;
-  font-family: 'Inter'sans-serif;
+  font-family: 'Inter', sans-serif;
   font-weight: 500;
   font-size: 15px;
   line-height: 20px;
   padding-top: 5px;
   justify-content: center;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  float: left;
 }
 
 #print-ruby {
@@ -467,9 +463,7 @@ ul {
   text-decoration: none;
   padding-top: 5px;
   justify-content: center;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  float: left;
 }
 
 .btn {
