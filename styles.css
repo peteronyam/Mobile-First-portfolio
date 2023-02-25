@@ -847,46 +847,46 @@ button:active {
 }
 
 #full-name {
- width: 327px;
- height: 32px;
- font-family: 'Inter', sans-serif;
- font-weight: 400;
- font-size: 15px;
- line-height: 24px;
- color: #979493;
- position: absolute;
- margin-top: 270px;
- margin-left: 24px;
- display:flex;
- align-items: center;
- padding-left: 10px;
- border-bottom: 1px solid #d8d8d7;
- border-left: 0;
- border-top: 0;
- border-right: 0;
+  width: 327px;
+  height: 32px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #979493;
+  position: absolute;
+  margin-top: 270px;
+  margin-left: 24px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  border-bottom: 1px solid #d8d8d7;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
 }
 
 #email {
- width: 327px;
- height: 32px;
- font-family: 'Inter', sans-serif;
- font-weight: 400;
- font-size: 15px;
- line-height: 24px;
- color: #979493;
- position: absolute;
- margin-top: 353px;
- margin-left: 24px;
- display:flex;
- align-items: center;
- padding-left: 10px;
- border-bottom: 1px solid #d8d8d7;
- border-left: 0;
- border-top: 0;
- border-right: 0;
+  width: 327px;
+  height: 32px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #979493;
+  position: absolute;
+  margin-top: 353px;
+  margin-left: 24px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  border-bottom: 1px solid #d8d8d7;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
 }
 
-textarea{
+textarea {
   width: 327px;
   height: 114px;
   position: absolute;
@@ -902,7 +902,7 @@ textarea{
   margin-top: 467px;
 }
 
-.submit{
+.submit {
   width: 166px;
   height: 48px;
   margin-top: 683px;
@@ -928,7 +928,7 @@ textarea{
   position: absolute;
 }
 
-.base{
+.base {
   align-items: center;
   display: flex;
   margin-top: 21px;
@@ -938,9 +938,9 @@ textarea{
   position: absolute;
   margin-top: 945px;
   margin-left: 141px;
- }
+}
 
- #twitte {
+#twitte {
   width: 19.99px;
   height: 20px;
   top: 0;
