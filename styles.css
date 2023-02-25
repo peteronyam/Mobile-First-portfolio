@@ -931,9 +931,7 @@ textarea {
 .base {
   align-items: center;
   display: flex;
-  margin-top: 21px;
   width: auto;
-  margin-left: 127px;
   list-style-type: none;
   position: absolute;
   margin-top: 945px;
