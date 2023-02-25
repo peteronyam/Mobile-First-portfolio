@@ -825,3 +825,153 @@ button:active {
   outline: none;
   border: none;
 }
+
+.form-start {
+  width: 375px;
+  height: 930px;
+}
+
+.form-header {
+  width: 327px;
+  height: 21px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  text-align: center;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-left: 24px;
+  margin-top: 120px;
+}
+
+#full-name {
+ width: 327px;
+ height: 32px;
+ font-family: 'Inter', sans-serif;
+ font-weight: 400;
+ font-size: 15px;
+ line-height: 24px;
+ color: #979493;
+ position: absolute;
+ margin-top: 270px;
+ margin-left: 24px;
+ display:flex;
+ align-items: center;
+ padding-left: 10px;
+ border-bottom: 1px solid #d8d8d7;
+ border-left: 0;
+ border-top: 0;
+ border-right: 0;
+}
+
+#email {
+ width: 327px;
+ height: 32px;
+ font-family: 'Inter', sans-serif;
+ font-weight: 400;
+ font-size: 15px;
+ line-height: 24px;
+ color: #979493;
+ position: absolute;
+ margin-top: 353px;
+ margin-left: 24px;
+ display:flex;
+ align-items: center;
+ padding-left: 10px;
+ border-bottom: 1px solid #d8d8d7;
+ border-left: 0;
+ border-top: 0;
+ border-right: 0;
+}
+
+textarea{
+  width: 327px;
+  height: 114px;
+  position: absolute;
+  background-color: #fbfbf7;
+  border: 0;
+  padding: 12px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #3c3a39;
+  margin-left: 24px;
+  margin-top: 467px;
+}
+
+.submit{
+  width: 166px;
+  height: 48px;
+  margin-top: 683px;
+  margin-left: 112px;
+  background-color: #ff6b00;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  padding: 12px;
+  font-size: 24px;
+  outline: none;
+  border: none;
+  position: absolute;
+}
+
+.seperator {
+  width: 375px;
+  border: 1px solid;
+  align-items: center;
+  color: #dfe1e6;
+  margin-top: 906px;
+  position: absolute;
+}
+
+.base{
+  align-items: center;
+  display: flex;
+  margin-top: 21px;
+  width: auto;
+  margin-left: 127px;
+  list-style-type: none;
+  position: absolute;
+  margin-top: 945px;
+  margin-left: 141px;
+ }
+
+ #twitte {
+  width: 19.99px;
+  height: 20px;
+  top: 0;
+  left: 0.01px;
+  color: #505f79;
+}
+
+#link {
+  width: 12.71px;
+  height: 16.97px;
+  margin-left: 10px;
+  top: 3.03px;
+  left: 7.29px;
+  color: #505f79;
+}
+
+#git {
+  width: 17.99px;
+  height: 20px;
+  left: 0.01px;
+  margin-left: 20px;
+  color: #505f79;
+}
+
+.bar {
+  width: 134px;
+  border: 5px solid #0d151e;
+  align-items: center;
+  color: #dfe1e6;
+  margin-top: 100px;
+  position: absolute;
+  border-radius: 10px;
+  margin-left: -41px;
+}
