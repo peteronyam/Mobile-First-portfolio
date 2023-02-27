@@ -377,7 +377,7 @@ h3 {
 
 ul {
   margin-left: 24px;
-  display: flex;
+  float: left;
   margin-top: 15px;
 }
 
@@ -389,6 +389,7 @@ ul {
   margin-top: 8px;
   padding: 10px, 12px, 10px, 12px;
   background-color: rgb(255, 255, 255, 0.24);
+  float: left;
 }
 
 .print-bootstrap {
@@ -397,11 +398,11 @@ ul {
   margin-left: 8px;
   list-style-type: none;
   text-decoration: none;
-  display: flex;
   flex-wrap: wrap;
   margin-top: 8px;
   padding: 10px, 12px, 10px, 12px;
   background-color: rgb(255, 255, 255, 0.24);
+  float: right;
 }
 
 .print-ruby {
@@ -415,6 +416,7 @@ ul {
   margin-top: 8px;
   padding: 10px, 12px, 10px, 12px;
   background-color: rgb(255, 255, 255, 0.24);
+  float: right;
 }
 
 #print-html {
