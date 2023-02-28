@@ -137,6 +137,9 @@ To run tests, run the following command:
 - Twitter: [@jiyapete](https://twitter.com/jiyapete)
 - LinkedIn: [peteronyam](https://linkedin.com/in/peteronyam)
 
+👤 **Author2**
+
+- GitHub: [@helina42](https://github.com/helina42)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
