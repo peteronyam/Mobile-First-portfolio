@@ -19,6 +19,6 @@
   "homepage": "https://github.com/peteronyam/Mobile-First-portfolio#readme",
   "devDependencies": {
     "@lhci/cli": "^0.11.0",
-    "hint": "^7.1.3"
+    "hint": "^7.1.5"
   }
 }
